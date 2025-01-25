@@ -20,6 +20,9 @@ build/
 # 로그 파일
 *.log
 
+# 티켓 로그 폴더
+ticket_logs/
+
 # 환경 변수 파일
 .env
 .env.*
